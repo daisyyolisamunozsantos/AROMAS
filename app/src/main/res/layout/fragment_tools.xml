@@ -3,6 +3,10 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -14,7 +18,7 @@
             android:layout_width="146dp"
             android:layout_height="96dp"
             android:layout_gravity="center"
-            android:src="@drawable/fruta" app:civ_border_width="2dp"
+            android:src="@drawable/amiga" app:civ_border_width="2dp"
             app:civ_border_color="#FF000000"/>
 
     <TextView
@@ -84,6 +88,6 @@
         </Button>
 
     </LinearLayout>
-
+    </ScrollView>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
