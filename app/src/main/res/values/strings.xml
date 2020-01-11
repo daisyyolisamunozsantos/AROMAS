@@ -9,9 +9,15 @@
 
     <string name="menu_home">Inicio</string>
     <string name="menu_gallery">Habitación</string>
-    <string name="menu_promocion">Promocion</string>
+    <string name="menu_promotion">Promocion</string>
     <string name="menu_slideshow">Configuración</string>
     <string name="menu_tools">Nosotros</string>
     <string name="menu_share">Registrate</string>
     <string name="menu_send">Send</string>
+
+
+    <string name="about_us_integrante1">VIENVENIDO</string>
+    <string name="about_us_integrante2">Iniciar Sesión</string>
+    <string name="about_us_integrante3">Iniciar Sesión</string>
+
 </resources>
